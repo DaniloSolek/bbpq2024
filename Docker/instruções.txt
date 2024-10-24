@@ -1,0 +1,4 @@
+docker build -t pqc .
+docker run -v <Diretório>:/app pqc (No meu caso: docker run -v C:/Users/Usuário/Desktop:/app pqc)
+A imagem "flag.png" será gerada no diretório escolhido
+Flag: grupocpq-fAJMAPAq5VK7
