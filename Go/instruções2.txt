@@ -1,0 +1,5 @@
+go run ex1.go
+go run ex2.go
+.
+.
+.
